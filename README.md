@@ -5,3 +5,8 @@
 - What im working on: Currently im working on a 1.12 anarchy client for minecraft ps I dont cheat on servers I only use unfair modifications on servers that allow them
 
 ![Data](https://komarev.com/ghpvc/?username=Onkar-1&style=flat-square&color=blueviolet) <br>
+<br>
+[![Status](https://github-readme-stats.vercel.app/api?username=Onkar-1&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <br>
+
+[![Coding](https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar-1&theme=dracula&show_icons=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<br>
