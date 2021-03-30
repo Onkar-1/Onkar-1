@@ -38,8 +38,6 @@
 
 - 🌱 I’m currently learning JavaScript, Java and c# I am looking to learn c++ 
 
-- 👯 I’m looking to collaborate on  
-
 - 💬 Talk to me about Anything if you have questions im currently working on my discord server 
 
 
