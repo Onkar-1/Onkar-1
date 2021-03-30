@@ -9,7 +9,7 @@
 
 </p>
 <div size='20px'> Hi! My name is Onkar. Thank You for taking the time to view my GitHub Profile :smile: 
-<h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2 align='center'> Connect with me on my discord which I am currently making<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align = 'center'>
 
 </p>
@@ -47,10 +47,10 @@
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=&count_private=true&show_icons=true&theme=synthwave" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Onkar-1&count_private=true&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=synthwave" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar-1&theme=synthwave" />
 </a>
 
 <!-- BLOG-POST-LIST:START -->
@@ -58,4 +58,3 @@
 
 
 
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
